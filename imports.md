@@ -2,11 +2,11 @@
 <ul>
 <li>Imports:
 <ul>
-<li>interface <a href="#wasi_config_store_0_2_0_draft"><code>wasi:config/store@0.2.0-draft</code></a></li>
+<li>interface <a href="#wasi_config_store_0_2_0_rc_1"><code>wasi:config/store@0.2.0-rc.1</code></a></li>
 </ul>
 </li>
 </ul>
-<h2><a id="wasi_config_store_0_2_0_draft"></a>Import interface wasi:config/store@0.2.0-draft</h2>
+<h2><a id="wasi_config_store_0_2_0_rc_1"></a>Import interface wasi:config/store@0.2.0-rc.1</h2>
 <hr />
 <h3>Types</h3>
 <h4><a id="error"></a><code>variant error</code></h4>
